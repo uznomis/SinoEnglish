@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Created by uznom on 2/1/2017.
+ * About page of the app.
  */
 
 public class AboutFragment extends Fragment {

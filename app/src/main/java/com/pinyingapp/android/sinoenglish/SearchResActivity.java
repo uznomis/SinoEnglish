@@ -12,7 +12,7 @@ import android.widget.ListView;
 import java.util.ArrayList;
 
 /**
- * Created by Simon on 2/1/2017.
+ * Search result activity of the app.
  */
 public class SearchResActivity extends ListActivity {
     @Override

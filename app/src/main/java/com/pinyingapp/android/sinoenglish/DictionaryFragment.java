@@ -9,7 +9,7 @@ import android.widget.ArrayAdapter;
 import java.util.ArrayList;
 
 /**
- * Created by Simon Zu on 2/1/2017.
+ * Dictionary list of the app.
  */
 
 public class DictionaryFragment extends ListFragment {

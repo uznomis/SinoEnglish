@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Created by Simon on 2/1/2017.
+ * Tutorial page.
  */
 
 public class TutorialFragment extends Fragment {
@@ -46,9 +46,9 @@ public class TutorialFragment extends Fragment {
         super.onPause();
     }
 
-    public class LearnPagerAdapter extends FragmentPagerAdapter {
+    private class LearnPagerAdapter extends FragmentPagerAdapter {
 
-        public LearnPagerAdapter(FragmentManager fm) {
+        LearnPagerAdapter(FragmentManager fm) {
             super(fm);
         }
 

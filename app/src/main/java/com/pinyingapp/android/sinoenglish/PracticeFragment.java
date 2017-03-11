@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Created by Simon on 2/1/2017.
+ * Practice fragment of the app.
  */
 
 public class PracticeFragment extends Fragment {

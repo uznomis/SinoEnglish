@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Created by Simon on 2/1/2017.
+ * Sound Chart Fragment where each PinYing sound is shown.
  */
 
 public class SoundChartFragment extends Fragment {

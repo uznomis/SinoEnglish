@@ -12,7 +12,7 @@ import android.widget.ArrayAdapter;
 import java.util.ArrayList;
 
 /**
- * Created by Simon on 2/1/2017.
+ * Learn fragment of the app.
  */
 
 public class LearnFragment extends ListFragment {
