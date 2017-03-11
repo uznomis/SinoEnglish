@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_drawer_items">
+        <item>@string/item_dictionary</item>
+        <item>@string/item_sound_chart</item>
+        <item>@string/item_practice</item>
+        <item>@string/item_learn</item>
+        <item>@string/item_tutorial</item>
+        <item>@string/item_about</item>
+    </string-array>
+</resources>

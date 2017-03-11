@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SinoEnglish</string>
+    <string name="item_dictionary">Dictionary</string>
+    <string name="item_sound_chart">Sound Chart</string>
+    <string name="item_practice">Practice Pinying</string>
+    <string name="item_learn">Learn Pinying</string>
+    <string name="item_tutorial">Tutorial</string>
+    <string name="item_about">About</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="search_title">Search A Word</string>
+    <string name="search_hint">An English Word</string>
+</resources>
